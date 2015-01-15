@@ -1,31 +1,23 @@
-The text for article can be found in [source.txt].
-
-## Content requirements
-
-* Headline
-* Byline
-* Paragraphs of text
-* Two quotes, with attribution (split up paragraphs with text)
-* Two images, with made-up captions
-* Bio of Author, with image
+## Get creative.
+Hi there. We've done quite a bit of writing HTML & CSS
+to match layouts. Now it's your turn to get creative.
+Use the HTML you've been given, and design it to your liking.
+BUT...you have to use the requirements below:
 
 ## Layout requirements
 
-* One column, centered in page
-* Quotes should be wider than column of text
-* Images should appear inline, with text wrapping around them.
-* Add at least three links, with hover state
-* First line of text should be larger than rest.
-* Author bio goes at end
+* A header with a full-width background image
+* The paragraphs at the top should feature a 2 column grid
+* The quote in the intro should be centered
+* At the bottom, include at least 2 links to your favorite coffee company
+* The individual coffee options should conform to a grid. The number of columns is up to you.
 
 ## Technical requirements
 
 * Put CSS in separate file
-* Use CSS reset
 * Use a webfont
 * Specify line-height
-* `<blockquote>`, `<q>` and `<cite>` for quotes
-* floats for text wrap around images
+* Use the inline-block method to create a grid
 
 ## Bonus
 
