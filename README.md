@@ -1,4 +1,5 @@
 ## Get creative.
+
 Hi there. We've done quite a bit of writing HTML & CSS
 to match layouts. Now it's your turn to get creative.
 Use the HTML you've been given, and design it to your liking.
@@ -14,8 +15,7 @@ BUT...you have to use the requirements below:
 
 ## Technical requirements
 
-* Put CSS in separate file
-* Use a webfont
+* Use a free Google webfont
 * Specify line-height
 * Use the inline-block method to create a grid
 
@@ -23,7 +23,7 @@ BUT...you have to use the requirements below:
 
 * CSS-only drop cap on first letter of first paragraph.
 
-### Nicely designed gridded sites
+## Nicely designed gridded sites
 
 * [Pinterest](http://www.pinterest.com/)
 * [New York Times (newspaper homepage)](http://www.nytimes.com/)
